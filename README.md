@@ -17,9 +17,6 @@
 <br/>
 
 <!-- STATS BADGES -->
-[![Stars](https://img.shields.io/github/stars/dhruvprajapati6/CSharp-Calculator?style=flat-square&logo=github&label=⭐%20Stars&color=FFD700)](https://github.com/dhruvprajapati6/CSharp-Calculator/stargazers)
-[![Forks](https://img.shields.io/github/forks/dhruvprajapati6/CSharp-Calculator?style=flat-square&logo=github&label=🍴%20Forks&color=00BFFF)](https://github.com/dhruvprajapati6/CSharp-Calculator/network)
-[![Issues](https://img.shields.io/github/issues/dhruvprajapati6/CSharp-Calculator?style=flat-square&logo=github&label=🐛%20Issues&color=FF6B6B)](https://github.com/dhruvprajapati6/CSharp-Calculator/issues)
 [![License](https://img.shields.io/badge/📜%20License-MIT-green?style=flat-square)](LICENSE)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=dhruvprajapati6%2FCSharp-Calculator&label=👁️%20Views&countColor=%2300d4ff&style=flat-square)](https://github.com/dhruvprajapati6)
 
@@ -315,8 +312,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhruvprajapati6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvprajapati6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvprajapati6)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvprajapati6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-prajapati-616b89362/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajapati_dhruv07/?hl=en)
 
 </div>
 
@@ -385,8 +382,8 @@ Have a question, suggestion, or want to collaborate? Reach out!
 | Platform | Link |
 |----------|------|
 | 🐙 **GitHub** | [@dhruvprajapati6](https://github.com/dhruvprajapati6) |
-| 💼 **LinkedIn** | [Connect with me](https://linkedin.com/in/dhruvprajapati6) |
-| 📸 **Instagram** | [@dhruvprajapati6](https://instagram.com/dhruvprajapati6) |
+| 💼 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/dhruv-prajapati-616b89362/) |
+| 📸 **Instagram** | [@dhruvprajapati6](https://www.instagram.com/prajapati_dhruv07/?hl=en) |
 | 🐛 **Bug Report** | [Open an Issue](https://github.com/dhruvprajapati6/CSharp-Calculator/issues/new) |
 
 </div>
