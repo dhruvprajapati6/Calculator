@@ -105,21 +105,9 @@
 
 ### 🖥️ Home Screen — Enter Numbers
 
-<img src="images/calculator-home.png" alt="Calculator Home Screen" width="80%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,212,255,0.3);"/>
+<img src="images/Calculator.png" alt="Calculator Home Screen" width="80%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,212,255,0.3);"/>
 
 > _Enter two numbers and select an arithmetic operation_
-
----
-
-### 📊 Result Screen — Instant Calculation
-
-<img src="images/calculator-result.png" alt="Calculator Result Screen" width="80%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,212,255,0.3);"/>
-
-> _The result displays instantly with clear, readable output_
-
-</div>
-
-> 📸 **Note:** Add your real application screenshots in the `images/` folder to bring this section to life!
 
 ---
 
