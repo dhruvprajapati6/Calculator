@@ -105,7 +105,7 @@
 
 ### 🖥️ Home Screen — Enter Numbers
 
-<img src="images/Calculator.png" alt="Calculator Home Screen" width="80%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,212,255,0.3);"/>
+<img src="Calculator.png" alt="Calculator Home Screen" width="80%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,212,255,0.3);"/>
 
 > _Enter two numbers and select an arithmetic operation_
 
