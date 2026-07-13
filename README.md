@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=760&lines=⚡+Fast+%7C+Clean+%7C+Reliable+Arithmetic+Engine;🎨+Modern+Windows+Forms+UI+Design;🛡️+Input+Validation+%26+Error+Handling;🚀+Built+with+C%23+.NET+Framework;🧑‍💻+Open+Source+%7C+Beginner+Friendly" alt="Typing Animation" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=0004FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=768&amp;lines=tic+Engine;+Modern+Windows+Forms+UI+Design;+Input+Validation+%26+Error+Handling;+Built+with+C%23+,+.NET+Framework+;+Open+Source+%26+Beginner+Friendly](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=0004FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=768&amp;lines=tic+Engine;+Modern+Windows+Forms+UI+Design;+Input+Validation+%26+Error+Handling;+Built+with+C%23+,+.NET+Framework+;+Open+Source+%26+Beginner+Friendly)+" alt="Typing Animation" />
 
 <br/>
 
