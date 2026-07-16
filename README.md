@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=🧮%20C%23%20Simple%20Calculator&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=A%20Modern%20Windows%20Forms%20Desktop%20Application&descAlignY=62&descSize=18&descColor=a8d8ff&animation=fadeIn" width="100%" />
 
-<div align="center">
+<center> <div align="center"> </center>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=🚀+Professional+C%23+Calculator;✨+Modern+UI+Design;📌+Easy+to+Use;🛡️+Error+Handling;💻+.NET+Framework+Windows+Forms;❤️+Made+by+Dhruv+Prajapati" alt=""/>
