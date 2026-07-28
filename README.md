@@ -119,7 +119,7 @@
 | ![WinForms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=flat-square&logo=windows&logoColor=white) | Desktop GUI framework | Built-in |
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) | Integrated Development Environment | 2022 |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control system | Latest |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code hosting & collaboration | — |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code hosting & collaboration | 2025 |
 
 </div>
 
